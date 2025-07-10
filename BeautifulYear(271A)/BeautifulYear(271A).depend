@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750839736 source:c:\users\hp\onedrive\desktop\c++\beautifulyear(271a)\main.cpp
+	<iostream>
+	<string>
+	<set>
+
